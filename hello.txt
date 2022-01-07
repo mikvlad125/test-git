@@ -1,1 +1,3 @@
-My first file in the GitHub repository
+My first file in the GitHub repository.
+
+Second comment.
